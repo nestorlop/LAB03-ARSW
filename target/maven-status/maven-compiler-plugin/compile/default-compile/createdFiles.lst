@@ -3,6 +3,7 @@ edu\eci\arsw\blueprints\controllers\BlueprintsAPIController$NewBlueprintRequest.
 edu\eci\arsw\blueprints\services\BlueprintsServices.class
 edu\eci\arsw\blueprints\persistence\PostgresBlueprintPersistence.class
 edu\eci\arsw\blueprints\filters\UndersamplingFilter.class
+edu\eci\arsw\blueprints\controllers\ApiResponse.class
 edu\eci\arsw\blueprints\model\Blueprint.class
 edu\eci\arsw\blueprints\persistence\BlueprintPersistenceException.class
 edu\eci\arsw\blueprints\filters\BlueprintsFilter.class
